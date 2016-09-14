@@ -1,0 +1,11 @@
+Message:
+  Freeze: '&9Freeze> &7You have &bFrozen &a%p%!'
+  UnFreeze: '&9Freeze> &7You have &bUnfrozen &a%p%!'
+  Error: '&9Freeze> &cUsage: /freeze <name> !'
+  NoPermission: '&9Freeze> &7You dont have permission to do that.'
+
+Title:
+  Msg:
+    Freeze: '§7You have been §bFrozen'
+    UnFreeze: '§7You are §eUn§bFrozen'
+    SubTitle: '§7By §c%p%'

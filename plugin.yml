@@ -1,0 +1,7 @@
+name: SexyFreeze
+version: 1.0
+Author: Numixe
+main: numixe.SexyFreeze.SexyFreeze
+commands:
+        freeze:
+          description: Freeze a Bad Player
